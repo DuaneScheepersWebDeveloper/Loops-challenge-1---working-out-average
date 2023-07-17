@@ -1,0 +1,15 @@
+C:\C# Masterclass course\Loops challenge 1 - working out average\bin\Debug\net6.0\Loops challenge 1 - working out average.exe
+C:\C# Masterclass course\Loops challenge 1 - working out average\bin\Debug\net6.0\Loops challenge 1 - working out average.deps.json
+C:\C# Masterclass course\Loops challenge 1 - working out average\bin\Debug\net6.0\Loops challenge 1 - working out average.runtimeconfig.json
+C:\C# Masterclass course\Loops challenge 1 - working out average\bin\Debug\net6.0\Loops challenge 1 - working out average.dll
+C:\C# Masterclass course\Loops challenge 1 - working out average\bin\Debug\net6.0\Loops challenge 1 - working out average.pdb
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.csproj.AssemblyReference.cache
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.AssemblyInfoInputs.cache
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.AssemblyInfo.cs
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.csproj.CoreCompileInputs.cache
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.dll
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\refint\Loops challenge 1 - working out average.dll
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.pdb
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\Loops challenge 1 - working out average.genruntimeconfig.cache
+C:\C# Masterclass course\Loops challenge 1 - working out average\obj\Debug\net6.0\ref\Loops challenge 1 - working out average.dll
